@@ -1,2 +1,5 @@
 name: Need team's approval
 on: pull_request_review
+jobs:
+  labelsWhenApproved:
+    runs-on: ubuntu-latest
