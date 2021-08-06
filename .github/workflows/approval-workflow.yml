@@ -1,1 +1,2 @@
 name: Need team's approval
+on: pull_request_review
