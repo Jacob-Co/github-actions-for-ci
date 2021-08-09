@@ -1,5 +1,5 @@
 name: Build
-on: pull-request
+on: pull_request
 #       - master # or the name of your main branch
 jobs:
   build:
