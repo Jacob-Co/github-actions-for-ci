@@ -1,4 +1,4 @@
-name: Build
+name: Sonarqube
 on: pull_request
 #       - master # or the name of your main branch
 jobs:
